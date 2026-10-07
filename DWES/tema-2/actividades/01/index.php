@@ -18,7 +18,7 @@ La calidez de su gente se refleja en una rica mezcla cultural de raíces indíge
 Su gastronomía resalta a nivel internacional gracias a la popular arepa, el pabellón criollo y sus tradicionales ritmos musicales.
 En la actualidad, la nación caribeña continúa adaptándose a profundos e históricos cambios políticos, sociales y económicos.";
 
-$enlace= "http://www.google.es";
+$enlace= "https://elpais.com/noticias/venezuela/";
 
 // Vista de la aplicación - html
 include "view.index.php";

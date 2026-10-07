@@ -2,7 +2,7 @@
 
 /*
     ejemplo 8: uso de variables escalares
-    Autor: Adrian Campos
+    Autor: Jhonal Roca Hernandez
     Fecha: 29-09-2026
     Descripcion: Este ejemplo muestra como declarar y utilizar variables
 */
